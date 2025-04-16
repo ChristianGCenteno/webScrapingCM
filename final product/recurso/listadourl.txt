@@ -1,0 +1,13 @@
+-- All the line that starts with -- they will ignore
+-- Format url::name_of_card
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Card-151/Charizard-ex-V3-sv2a201::sv2a_201_Charizard ex
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Giratina-VSTAR-CRZGG69::CRZ_GG69_Giratina Vstar
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Eevee-JU51?language=1&isFirstEd=Y::JU_51_Eevee
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Mewtwo-LVX-LA144::LA_144_Mewtwo LV.X
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Card-151/Giovannis-Charisma-V3-sv2a207::sv2a_207_Giovanni's Charisma
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Card-151/Giovannis-Charisma-V2-sv2a197::sv2a_197_Giovanni's Charisma
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Card-151/Zapdos-ex-V3-sv2a204::sv2a_204_Zapdos ex
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Card-151/Alakazam-ex-V3-sv2a203::sv2a_203_Alakazam ex
+https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Pikachu-with-Grey-Felt-Hat-SVP085::svp_085_Pikachu with Grey Felt Hat
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Crown-Zenith/Leafeon-VSTAR-V2-CRZGG35::CRZ_GG35_Leafeon Vstar
+https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Genesis/Lugia-NG9::NG_9_Lugia
